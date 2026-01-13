@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: Mental health platform with Agora video calls & payment integration<br>👯 Open to: Healthcare tech, fintech, or SaaS projects<br>🤝 Need help with: K8s scaling, microservices optimization, cloud architecture<br>🌱 Learning: Docker, Kubernetes, CI/CD, AWS deployment & auto-scaling<br>💬 Stack: React • Next.js • Node.js • Prisma • PostgreSQL • REST • WebSockets • Agora • Docker • AWS<br>⚡ Fun fact: console.log() is my debugger, 2 AM is my prime time! 😄
+🔭 Working on: Mental health platform with Agora video calls & payment integration<br>👯 Open to: Healthcare tech, fintech, or SaaS projects<br> or Full Stack Projects🤝 Need help with: K8s scaling, microservices optimization, cloud architecture<br>🌱 Learning: Docker, Kubernetes, CI/CD, AWS deployment & auto-scaling<br>💬 Stack: React • Next.js • Node.js • Prisma • PostgreSQL • REST • WebSockets • Agora •Express • Docker • AWS<br>⚡ Fun fact: console.log() is my debugger, 2 AM is my prime time! 😄
 
 
 ## 🌐 Socials:
